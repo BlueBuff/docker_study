@@ -1,4 +1,4 @@
-FROM mytomcat:0.1
+FROM tomcat
 MAINTAINER "HDG huangxiaojun <1010060164@qq.com>"
 
 ENV APP_NAME dockerstudy
